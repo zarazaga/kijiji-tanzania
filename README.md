@@ -1,23 +1,10 @@
-# Tanzania | Sustainable Rural Development in Kasisa
+# Tanzania / Kasisa project archive through 2025
 
-Static GitHub Pages site organized by long-term research project rather than by field year.
+This package contains the static HTML/CSS website and local images used by the archive through the 2025 field season.
 
-## Project order
-1. Site Mapping
-2. Water
-3. Water Filtration
-4. Toilets & Sanitation
-5. Compressed Earth Blocks
-6. Sustainable Roof Tiles
-7. Sustainable Construction
-8. Landscape Design & Drainage
-9. Climate Data
-10. Solar Energy
-11. Community Co-Design Process
-12. Education and Technology
-13. Economic Development
+## Image coverage
+- 2022: restored from the original field photographs uploaded in the project conversation. These now document the first Kijiji Hostel year, RTK/site mapping, early soil testing, and small community meetings.
+- 2023: no original 2023 field photographs were present among the uploaded source files available for this rebuild. The 2023 project text remains in the archive and the page links to the original 2023 StoryMap.
+- 2024 and 2025: image folders retained from the previous build.
 
-## Updating an existing GitHub repository
-Upload/replace `index.html` and `styles.css` at the repository root. Keep the existing `images/` folder and upload any new image folders without changing paths used in `index.html`.
-
-The current draft uses the selected 2024 images already prepared. 2022, 2025 and 2026 images can be added by project as the archive is developed.
+Open `index.html` to view the site locally.
