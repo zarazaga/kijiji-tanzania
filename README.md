@@ -1,49 +1,23 @@
 # Tanzania | Sustainable Rural Development in Kasisa
 
-This folder is a complete static site prepared for GitHub Pages.
+Static GitHub Pages site organized by long-term research project rather than by field year.
 
-## Files
-- `index.html` — page content
-- `styles.css` — layout and responsive styling
-- `images/2024/` — optimized 2024 project photographs
-- `README.md` — setup notes
+## Project order
+1. Site Mapping
+2. Water
+3. Water Filtration
+4. Toilets & Sanitation
+5. Compressed Earth Blocks
+6. Sustainable Roof Tiles
+7. Sustainable Construction
+8. Landscape Design & Drainage
+9. Climate Data
+10. Solar Energy
+11. Community Co-Design Process
+12. Education and Technology
+13. Economic Development
 
-## Put it on GitHub Pages
-1. Create a new GitHub repository, for example `tanzania-kijiji`.
-2. Upload everything in this folder to the repository root.
-3. In the repository, open **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select the `main` branch and `/ (root)`, then save.
-6. GitHub will show the public URL after deployment.
+## Updating an existing GitHub repository
+Upload/replace `index.html` and `styles.css` at the repository root. Keep the existing `images/` folder and upload any new image folders without changing paths used in `index.html`.
 
-If you already have a GitHub Pages site, you can instead put this folder inside that repository and link to its `index.html` path.
-
-## Add 2025 and 2026 later
-The page already contains the 2025 and 2026 text sections. When photographs are selected, add new folders such as:
-
-- `images/2025/`
-- `images/2026/`
-
-Then add image gallery blocks to the corresponding sections in `index.html`.
-
-## Connect it to SMUSDP.com (Squarespace)
-The simplest and most reliable method is to add an external link or button on the Squarespace site pointing to the GitHub Pages URL.
-
-You can also add the GitHub Pages URL as an item in Squarespace navigation.
-
-Embedding the full page inside Squarespace with an iframe is possible on Squarespace plans that allow iframe code in Code Blocks. A typical embed looks like:
-
-```html
-<iframe
-  src="YOUR-GITHUB-PAGES-URL"
-  title="Tanzania sustainable rural development project"
-  style="width:100%; height:900px; border:0;"
-  loading="lazy">
-</iframe>
-```
-
-For this project, linking is recommended over embedding because the Tanzania site is a long, responsive page and will work better on phones and tablets as its own page.
-
-## 2023 StoryMap
-The 2023 StoryMap is linked from the page rather than recreated:
-https://arcg.is/nmeba
+The current draft uses the selected 2024 images already prepared. 2022, 2025 and 2026 images can be added by project as the archive is developed.
