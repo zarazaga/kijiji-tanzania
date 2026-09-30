@@ -8,3 +8,6 @@ This package contains the static HTML/CSS website and local images used by the a
 - 2024 and 2025: image folders retained from the previous build.
 
 Open `index.html` to view the site locally.
+
+
+Photo review update: includes 192 original uploaded photographs through 2025 in images/uploaded-all, with filename captions in the review gallery.
